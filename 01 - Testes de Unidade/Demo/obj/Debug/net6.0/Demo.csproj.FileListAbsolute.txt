@@ -1,0 +1,12 @@
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net6.0\Demo.deps.json
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net6.0\Demo.dll
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\bin\Debug\net6.0\Demo.pdb
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.csproj.AssemblyReference.cache
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.AssemblyInfoInputs.cache
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.AssemblyInfo.cs
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.csproj.CoreCompileInputs.cache
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.dll
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\refint\Demo.dll
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\Demo.pdb
+E:\dev.io\Testes De Software\TestesDeSoftware\01 - Testes de Unidade\Demo\obj\Debug\net6.0\ref\Demo.dll
